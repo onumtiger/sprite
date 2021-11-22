@@ -1,6 +1,7 @@
-# neverhaveiever
+# never have i ever
 
-A new Flutter project.
+A simple community based questions app.
+If you are surprised by any question - all questions come from you. 
 
 ## Getting Started
 
